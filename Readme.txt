@@ -1,6 +1,9 @@
-Thanks for downloading this template!!
+Thanks for downloading this template!
 
-Template Name: Arsha
-Template URL: https://bootstrapmade.com/arsha-free-bootstrap-html-template-corporate/
+Template Name: Medicio
+Template URL: https://bootstrapmade.com/medicio-free-bootstrap-theme/
 Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
+
+
+https://github.com/dwyl/learn-to-send-email-via-google-script-html-no-server
